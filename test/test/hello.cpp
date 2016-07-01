@@ -3,4 +3,5 @@ void fff()
 {
 	//
 	cout << "hello git" << endl;
+	cout << "hello" << endl;
 }
