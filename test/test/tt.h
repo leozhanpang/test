@@ -2,4 +2,6 @@
 class tf
 {
 	//hekekk
+public:
+	tf(){}
 };
